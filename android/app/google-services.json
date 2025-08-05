@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "855972287164",
+    "project_id": "katomaran-todoapp",
+    "storage_bucket": "katomaran-todoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855972287164:android:ef51d184b3d6cfee5f76b9",
+        "android_client_info": {
+          "package_name": "com.example.katomaran_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855972287164-2it6rhk82gl2dgvtk0lnf9olo7hm2445.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.katomaran_todoapp",
+            "certificate_hash": "75654f14cc39ff3c39ac4c0950d1fafe898d37b5"
+          }
+        },
+        {
+          "client_id": "855972287164-n39ro0q5btlntaan7hdn5tlh7hh9ssqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmBcHUC0EpxKRg_rzGgFLFdbDLjb4oLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855972287164-n39ro0q5btlntaan7hdn5tlh7hh9ssqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855972287164-nluhutdkvl6d6mibkn3tpsel9381o3oi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.katomaranTodoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
