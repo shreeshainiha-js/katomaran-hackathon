@@ -24,7 +24,7 @@ flutter build apk --release
 
 https://drive.google.com/file/d/1EudaXt7R431_14npPrpRIDl0wSFQZDp0/view?usp=drive_link
 
-![Model Diagram](assets/model%20todo.png)
+![Model Diagram](model%20todo.png)
 
 
 ## Assumptions
