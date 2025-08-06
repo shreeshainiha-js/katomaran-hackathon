@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1EudaXt7R431_14npPrpRIDl0wSFQZDp0/view?usp=drive
 
 ## Working of App
 
-![App demo video](katomaran%20demo%20video%20of%20app.mp4)
+![App video](katomaran%20demo%20video%20of%20app.mp4)
 
 
 ## Assumptions
