@@ -28,6 +28,9 @@ https://drive.google.com/file/d/1EudaXt7R431_14npPrpRIDl0wSFQZDp0/view?usp=drive
 
 ![Model Diagram](model%20todo.png)
 
+## Explanation
+
+https://www.loom.com/share/76dc1ea35c714c85b70ee24f79bcfbb6?sid=f99c7b77-ee1c-4111-972f-72a014bbb270
 
 ## Assumptions
 
