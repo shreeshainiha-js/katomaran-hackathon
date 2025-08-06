@@ -28,10 +28,6 @@ https://drive.google.com/file/d/1EudaXt7R431_14npPrpRIDl0wSFQZDp0/view?usp=drive
 
 ![Model Diagram](model%20todo.png)
 
-## Working of App
-
-![App video](katomaran%20demo%20video%20of%20app.mp4)
-
 
 ## Assumptions
 
